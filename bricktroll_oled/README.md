@@ -1,6 +1,6 @@
 #  Bricktroll OLED edition: Arduino IDE files
 
-You only need this folder to compile the program in Arduino IDE
+You only need this folder contents to compile the program in Arduino IDE
 * TTGO T-Watch library is NO longer needed
 * __Legoino__ library required https://github.com/olikraus/U8g2_Arduino , or in 'tools' -> 'manage libraries':
   
