@@ -1,3 +1,11 @@
+# Bricktroll OLED edition
+It can now operate with cheap OLED displays, later I plan to add a 'blind precompiled remote' to run it without a display at all.
+
+Follow to the __bricktroll_oled__ folder
+
+__________________________
+original README below this line
+__________________________
 # Bricktroll
 
 Firmware for a "real hardware remote" for Lego Control+ using an esp32.
