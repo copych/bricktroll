@@ -2,7 +2,7 @@
 It can now operate with cheap OLED displays, later I plan to add a 'blind precompiled remote' to run it without a display at all.
 You can now compile it in the __Arduino IDE__.
 
-Follow to the __bricktroll_oled__ folder
+Follow to the __bricktroll_oled__ folder: https://github.com/copych/bricktroll/tree/master/bricktroll_oled
 
 __________________________
 original README below this line
